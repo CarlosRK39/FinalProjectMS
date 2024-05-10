@@ -23,7 +23,7 @@ export function Formulario({ setUser } : any) {
 
     return ( 
         <section>
-            <h1>Login</h1>
+            <h1>Ingresar</h1>
             <form className='formulario' onSubmit={handleSubmit}>
                 Usuario:
                 <input 

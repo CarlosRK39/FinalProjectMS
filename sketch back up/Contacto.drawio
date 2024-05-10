@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T02:09:27.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fHg2msal-ke6xGaf1W9Q" version="24.3.1" type="device">
+  <diagram name="Página-1" id="ZiPaY38UyZhBznFPgjIx">
+    <mxGraphModel dx="2901" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="738" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-2" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-7" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="840" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-11" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="840" width="432" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="700" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-13" value="nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="230" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-14" value="teléfono" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="300" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-15" value="Correo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="370" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-16" value="Mensaje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="440" width="500" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-17" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-19" value="redes sociales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1000" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qwAwIJElgJ_FREE7Bsb-20" value="Enviar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

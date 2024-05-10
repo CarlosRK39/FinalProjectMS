@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T02:09:21.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BwGGxAXAljKZXHukNv9D" version="24.3.1" type="device">
+  <diagram name="Página-1" id="7Mn_HCCtELDWTlgLt0pT">
+    <mxGraphModel dx="2901" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-15" value="Imagen de instrumento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="860" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1" y="130" width="860" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-17" value="texto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="790" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-1" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-6" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-8" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="840" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="840" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-13" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="840" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-14" value="Nosotros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-18" value="Boton de inscribete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="780" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ei4DZAcIr0XSQeQNF1Ko-19" value="redes sociales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1000" width="700" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

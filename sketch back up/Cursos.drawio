@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T01:51:40.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xR72jhvahYc9VQg-nWNy" version="24.3.1" type="device">
+  <diagram name="Página-1" id="kKpHfXDBhyhJDBgKjIdM">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-25" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-29" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-30" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-31" value="Logo de escuela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1070" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-32" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nosotros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="1070" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cursos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="1070" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contacto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="1070" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alumno&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="1070" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-36" value="Barra de navegacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1070" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-38" value="Canto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="119" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-39" value="Guiitarra" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-40" value="Bajo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="479" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-41" value="Piano" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="659" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-42" value="Teclado" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="662" y="380" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-43" value="Violin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="662" y="560" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-44" value="Arpa" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="479" y="560" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-45" value="Percusiones" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="560" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-46" value="Producción" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="119" y="560" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-47" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="740" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-71" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="381" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-72" value="Reparacion" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="119" y="740" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-73" value="Kids" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="890" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-74" value="Salas de grabacion" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="121" y="894" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-75" value="Bateria" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="479" y="890" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TV4NcqSksKwmc8SMtbS5-76" value="Salas de ensayo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="890" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
