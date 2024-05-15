@@ -1,5 +1,5 @@
 
-import './formulario.css'
+import './style.css'
 import { useState } from 'react'
 import '../App.css'
 
@@ -23,7 +23,7 @@ export function Formulario({ setUser } : any) {
 
     return ( 
         <section>
-            <h1>Ingresar</h1>
+            <h1>Ingreso</h1>
             <form className='formulario' onSubmit={handleSubmit}>
                 Usuario:
                 <input 
