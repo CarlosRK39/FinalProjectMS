@@ -48,7 +48,3 @@ export function Formulario({ setUser } : any) {
 }
  export default Formulario
 
- export async function loader({params}: any) {
-    //
-    return params.nombre
-}

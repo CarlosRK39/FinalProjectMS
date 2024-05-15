@@ -5,7 +5,7 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import './index.css'
 
 import { Contacto } from './Contact/contacto.tsx'
-import Formulario, { loader as formularioloader } from './Componentes/formulario.tsx'
+import Formulario  from './Componentes/formulario.tsx'
 import RootLayout from './Routes/RoutesLayout.tsx'
 
 const routerConfig = createBrowserRouter ([
@@ -15,7 +15,7 @@ const routerConfig = createBrowserRouter ([
 
       { path: "/", element: <App/>},
       { path: "/Contacto", element: <Contacto/>},
-      { path: "/Formulario", element: <Formulario/>, loader: formularioloader }
+      { path: "/Formulario", element: <Formulario/> }
 
     ]
   }

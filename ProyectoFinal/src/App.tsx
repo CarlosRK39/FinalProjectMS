@@ -8,7 +8,8 @@ function App() {
   return (
     <>
     <h1>Página Principal</h1>
-    <Link to="/lista">#####Pending</Link>
+    <Link to="/contacto">Contáctanos</Link>
+    <Link to="/formulario">Ingreso</Link>
     </>
   )
 }
