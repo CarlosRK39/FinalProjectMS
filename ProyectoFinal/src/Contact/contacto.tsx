@@ -1,5 +1,7 @@
+
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
+
 
 export function Contacto() {
     const refForm = useRef<HTMLFormElement>(null);
@@ -45,6 +47,8 @@ export function Contacto() {
 
             <button className='btn-send' disabled={submitted}>Enviar</button>
             {submitted && <p>¡Formulario enviado con éxito!</p>}
+
         </form>
+   
     );
 }

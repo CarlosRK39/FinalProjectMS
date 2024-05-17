@@ -1,5 +1,4 @@
 
-
 export function Home({user, setUser} : any){
     const handleLogout = () => {
         setUser([])

@@ -43,8 +43,12 @@ export function Formulario({ setUser } : any) {
                 <button>Iniciar Sesión</button>
             </form>
             {error && <p>Todos los Campos son Obligatorios**</p>}
+
+            
         </section>
+
+        
     )
 }
- export default Formulario
+
 
